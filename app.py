@@ -28,7 +28,7 @@ html = """
 </head>
 <body>
     <h1>Привіт, Flask!</h1>
-    <p>Це мій перший Flask-застосунок.</p>
+    <p>Це мій перший Flask-застосунок!!!!!!!.</p>
     <button onclick="alert('Працює!')">Натисни мене</button>
 </body>
 </html>
