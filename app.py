@@ -29,7 +29,7 @@ html = """
 <body>
     <h1>Привіт, Flask!</h1>
     <p>Це мій перший Flask-застосунок!!!!!!!.</p>
-    <button onclick="alert('Працює!')">Натисни мене</button>
+    <button onclick="alert('зміниввфвівфівфівів!')">Натисни мене</button>
 </body>
 </html>
 """
